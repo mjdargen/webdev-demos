@@ -41,7 +41,7 @@ const teams = [{
     "members": ["Sam", "Evan"],
     "period": "E",
     "overview": "A website to take different fun quizzes to test their knowledge.",
-    "website": ""
+    "website": "https://Web-Dev-Final.12366190.repl.co"
 }, {
     "title": "Very Accurate And Amazing Survey Website to Find Out Which Ecuadorian President You Are",
     "members": ["William", "Zeta"],
@@ -97,11 +97,11 @@ const teams = [{
     "overview": "A online quiz website that asks questions about Mr. D'Argenio, much to his chagrin.",
     "website": "https://quiz.lauryncooper.repl.co"
 }, {
-    "title": "",
+    "title": "Meme Generator",
     "members": ["Riziki", "Kimberly"],
     "period": "F",
-    "overview": "",
-    "website": ""
+    "overview": "A website that creates an animation of the original image with a meme.",
+    "website": "https://Surprise.rizikichabeda.repl.co"
 }, {
     "title": "Cipher Creator/Translator",
     "members": ["Claire", "Emberleigh", "Nicholas"],
