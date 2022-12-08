@@ -55,12 +55,12 @@ const teams = [{
     "overview": "Color-by-number will be an interactive game where the user tries to create an image given a 5x5 grid.",
     "website": "https://Color-By-Number.micajahbullard.repl.co"
 }, {
-    "title": "NCSSM: Inside Edition",
-    "members": ["Merry", "Yadira"],
-    "period": "E",
-    "overview": "A site similar to the original NCSSM website, but with a more honest take that is representative of NCSSM from the students' perspective.",
-    "website": "https://NCSSM-Inside-Edition.yadiraalcaraz-p.repl.co"
-}, {
+    //     "title": "NCSSM: Inside Edition",
+    //     "members": ["Merry", "Yadira"],
+    //     "period": "E",
+    //     "overview": "A site similar to the original NCSSM website, but with a more honest take that is representative of NCSSM from the students' perspective.",
+    //     "website": "https://NCSSM-Inside-Edition.yadiraalcaraz-p.repl.co"
+    // }, {
     "title": "Storefront Shopping",
     "members": ["AJ", "Laiken"],
     "period": "F",
